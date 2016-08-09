@@ -6,9 +6,9 @@ color:
   saturation: 0.9655436694156379
   rhythmicContrast: 0.5776149409357458
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
 name: Experiment
