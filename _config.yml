@@ -1,16 +1,30 @@
+name: Experiment
+favicon: null
+layout_spectrum: 0.8668150908779353
 typography_spectrum: 0.6217419968452305
+title: Trials and Tribulations
+description: Swag
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
+  brandColors:
+    - '#e3ded3'
+    - '#ccc1ae'
+    - '#937d61'
+    - '#453421'
+    - '#725d43'
   brandStrength: 0.1136480791028589
   lightness: 0.23478643829002976
   saturation: 0.9655436694156379
   rhythmicContrast: 0.5776149409357458
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.8668150908779353
-name: Experiment
-title: Trials and Tribulations
-description: Swag
+purpose: []
