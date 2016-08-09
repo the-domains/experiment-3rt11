@@ -1,7 +1,7 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: en
 keywords:
   - taco
@@ -15,8 +15,8 @@ keywords:
   - potato
   - burger
 description: What is the future for VIX futures? Is complacency at an all-time high?
-datePublished: '2016-08-09T21:49:44.340Z'
-dateModified: '2016-08-09T21:43:06.078Z'
+datePublished: '2016-08-09T21:53:03.934Z'
+dateModified: '2016-08-09T21:52:46.330Z'
 sourcePath: _posts/2016-04-16-dinnertable-a-20-seat-speakeasy-style-restaurant.md
 related: []
 author:
