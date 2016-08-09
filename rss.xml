@@ -4,21 +4,21 @@
         <description><![CDATA[Trials and Tribulations]]></description>
         <link>https://thegrid.ai/experiment-3rt11/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 20:09:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 20:14:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/experiment-3rt11/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1360bcaa-83db-42f9-bbea-ca177168aa3f.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/experiment-3rt11/trials-and-tribulations/index.html</link>
+            <guid isPermaLink="false">f91e074b-40ec-4f84-9bd6-bbff825f28ce</guid>
+            <pubDate>Tue, 09 Aug 2016 20:14:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bulls and Bears]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ede4da6b-dc97-4347-8e1d-9f3ea3861f2d.png">]]></description>
             <link>https://thegrid.ai/experiment-3rt11/bulls-and-bears/index.html</link>
             <guid isPermaLink="false">9bb52881-92f0-42f4-9db9-2e2b387cc1d5</guid>
             <pubDate>Tue, 09 Aug 2016 20:09:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1360bcaa-83db-42f9-bbea-ca177168aa3f.jpg">]]></description>
-            <link>https://thegrid.ai/experiment-3rt11/trials-and-tribulations/index.html</link>
-            <guid isPermaLink="false">f91e074b-40ec-4f84-9bd6-bbff825f28ce</guid>
-            <pubDate>Tue, 09 Aug 2016 19:39:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
