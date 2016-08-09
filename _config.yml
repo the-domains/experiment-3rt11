@@ -1,7 +1,7 @@
 name: Experiment
 favicon: null
 layout_spectrum: 0.78871
-typography_spectrum: 0.42548
+typography_spectrum: 0.34358
 title: Trials and Tribulations
 collections:
   - index:
@@ -38,5 +38,5 @@ color:
   brandStrength: 1
   lightness: 0.2347864382900298
   saturation: 0.9655436694156379
-  rhythmicContrast: 0.5776149409357458
+  rhythmicContrast: 1
 purpose: []
