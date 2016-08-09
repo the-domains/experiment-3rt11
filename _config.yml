@@ -1,4 +1,4 @@
-name: Experiment
+name: Trials and Tribulations
 favicon: null
 layout_spectrum: 0.78871
 typography_spectrum: 0.34358
@@ -30,11 +30,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#eacda5'
-    - '#aaab65'
-    - '#6e7822'
-    - '#4d5907'
-    - '#353107'
+    - '#0a1109'
+    - '#d4ba99'
+    - '#514031'
+    - '#b58a68'
+    - '#faeacf'
   brandStrength: 1
   lightness: 0.2347864382900298
   saturation: 0.9655436694156379
