@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-09T19:04:16.847Z'
-sourcePath: _posts/2016-04-16-dinnertable-a-20-seat-speakeasy-style-restaurant.md
 inFeed: true
-isBasedOnUrl: 'http://www.coolhunting.com/food-drink/dinnertable-restaurant-east-village'
 hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.coolhunting.com/food-drink/dinnertable-restaurant-east-village'
+inLanguage: en
 keywords:
   - taco
   - dinnertable
@@ -15,27 +15,27 @@ keywords:
   - salad
   - potato
   - burger
+description: 'https://www.youtube.com/watch?v=ve1OGJZS74Q&t=938s'
+datePublished: '2016-08-09T19:56:36.979Z'
+dateModified: '2016-08-09T19:56:19.028Z'
+sourcePath: _posts/2016-04-16-dinnertable-a-20-seat-speakeasy-style-restaurant.md
 related: []
 author: []
-dateModified: '2016-08-09T19:04:15.961Z'
-title: 'dinnertable: A 20-Seat Speakeasy-Style Restaurant'
+title: ''
 app_links: []
-publisher:
-  url: 'http://www.coolhunting.com'
-  name: Cool Hunting
-  favicon: 'http://assets.coolhunting.com/favicon.ico'
-  domain: www.coolhunting.com
-description: >-
-  The sign beside the interior door reads "Press for Food." If you're in front
-  of it, you've just walked through the bustling East Village cocktail bar The
-  Garret East, beyond a curtain, into a petite corridor. A push of the analog
-  button sends a chime to the inside and you're promptly greeted.
-inLanguage: en
-inNav: false
 via: {}
+authors: []
+publisher: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>dinnertable: A 20-Seat Speakeasy-Style Restaurant</h1><p>The sign beside the interior door reads "Press for Food." If you're in front of it, you've just walked through the bustling East Village cocktail bar The Garret East, beyond a curtain, into a petite corridor. A push of the analog button sends a chime to the inside and you're promptly greeted.</p><img src="http://assets.coolhunting.com/coolhunting/2016/04/08/large_Dinnertable-Taco-Thumb.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c79f2891-dd04-44c6-9305-fe687b0c2f83.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ede4da6b-dc97-4347-8e1d-9f3ea3861f2d.png)
+
+**[https://www.youtube.com/watch?v=ve1OGJZS74Q&t=938s][0]**
+
+What is the future for VIX futures? Is complacency at an all-time high?
+
+[0]: https://www.youtube.com/watch?v=ve1OGJZS74Q&t=938s
