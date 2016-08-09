@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: Trials and Tribulations
-datePublished: '2016-08-09T20:14:41.838Z'
-dateModified: '2016-08-09T20:14:34.144Z'
+datePublished: '2016-08-09T21:49:48.717Z'
+dateModified: '2016-08-09T21:47:47.932Z'
 title: ''
 author:
   - name: ''
@@ -15,11 +16,12 @@ via: {}
 sourcePath: _posts/2016-08-09-trials-and-tribulations.md
 authors: []
 publisher:
-  name: ''
-  url: ''
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
-url: trials-and-tribulations/index.html
-_type: Article
+_type: Blurb
 
 ---
 Trials and Tribulations
