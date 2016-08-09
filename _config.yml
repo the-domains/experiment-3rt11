@@ -1,4 +1,3 @@
-layout_spectrum: 0.8668150908779353
 typography_spectrum: 0.6217419968452305
 color:
   brandStrength: 0.1136480791028589
@@ -6,9 +5,11 @@ color:
   saturation: 0.9655436694156379
   rhythmicContrast: 0.5776149409357458
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.8668150908779353
 name: Experiment
+title: Trials and Tribulations
