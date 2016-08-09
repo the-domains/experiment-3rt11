@@ -16,8 +16,8 @@ keywords:
   - potato
   - burger
 description: 'https://www.youtube.com/watch?v=ve1OGJZS74Q&t=938s'
-datePublished: '2016-08-09T19:56:36.979Z'
-dateModified: '2016-08-09T19:56:19.028Z'
+datePublished: '2016-08-09T19:57:15.129Z'
+dateModified: '2016-08-09T19:56:44.319Z'
 sourcePath: _posts/2016-04-16-dinnertable-a-20-seat-speakeasy-style-restaurant.md
 related: []
 author: []
