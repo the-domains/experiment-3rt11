@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: Trials and Tribulations
-datePublished: '2016-08-09T21:49:48.717Z'
-dateModified: '2016-08-09T21:47:47.932Z'
+datePublished: '2016-08-09T21:53:26.696Z'
+dateModified: '2016-08-09T21:53:22.009Z'
 title: ''
 author:
   - name: ''
