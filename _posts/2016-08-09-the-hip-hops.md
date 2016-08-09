@@ -1,12 +1,12 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: The Hip-Hops
-datePublished: '2016-08-09T21:43:46.275Z'
-dateModified: '2016-08-09T21:43:35.280Z'
+datePublished: '2016-08-09T21:52:32.493Z'
+dateModified: '2016-08-09T21:52:30.013Z'
 title: ''
 author: []
 via: {}
@@ -19,7 +19,7 @@ publisher:
   favicon: null
 starred: false
 url: the-hip-hops/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 The Hip-**Hops**
