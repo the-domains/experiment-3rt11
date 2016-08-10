@@ -2,12 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 keywords: []
-description: Trials and Tribulations
-datePublished: '2016-08-10T18:13:13.379Z'
-dateModified: '2016-08-10T17:43:30.538Z'
+description: >-
+  A blog about trials and tribulations from my various hobbies in markets, home
+  brewing beer and cooking (my hobby trifecta).
+datePublished: '2016-08-10T18:27:40.924Z'
+dateModified: '2016-08-10T18:27:21.019Z'
 title: ''
 author:
   - name: ''
@@ -15,16 +16,11 @@ author:
 via: {}
 sourcePath: _posts/2016-08-09-trials-and-tribulations.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: false
 _type: Blurb
 
 ---
-Trials and Tribulations
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1360bcaa-83db-42f9-bbea-ca177168aa3f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9611d406-44c5-4e90-b39a-f3e21856bed5.jpg)
 
 A blog about trials and tribulations from my various hobbies in markets, home brewing beer and cooking (my hobby trifecta).
