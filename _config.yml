@@ -1,7 +1,7 @@
 name: Trials and Tribulations
 favicon: null
 layout_spectrum: 0.93081
-typography_spectrum: 0.34358
+typography_spectrum: 0.38809
 title: Trials and Tribulations
 collections:
   - index:
@@ -35,8 +35,8 @@ color:
     - '#4c2013'
     - '#dd6028'
     - '#9a6c39'
-  brandStrength: 0.25
+  brandStrength: 0
   lightness: 0.5
-  saturation: 0.8125
+  saturation: 0.5
   rhythmicContrast: 0.25
 purpose: []
