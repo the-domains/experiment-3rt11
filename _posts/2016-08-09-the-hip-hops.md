@@ -5,17 +5,19 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Hip-HOPS
-datePublished: '2016-08-10T18:13:07.896Z'
-dateModified: '2016-08-10T18:12:08.218Z'
+datePublished: '2016-08-10T18:14:59.430Z'
+dateModified: '2016-08-10T18:14:58.803Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 via: {}
 sourcePath: _posts/2016-08-09-the-hip-hops.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
 url: the-hip-hops/index.html
@@ -46,7 +48,6 @@ I have listed below some hops that I like to use for **1\. Bittering hops**,**2*
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d68bf427-9476-4b66-9d3d-5a5b8cc4eaed.png)
 
 Bittering hops go inat the beginning of the boil and add to the bitterness of a beer mainly because these hops stay in the boil longer. Simply put, the hops add more to the bitterness the longer these little guys stay in the boil while adding more to the aroma as they are added towards the end of the boil (60-90 minute boils for most beers) or after the boil in the fermenter during the fermentation process of 2-3 weeks (dry hopping).
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6bf8e3f-afe8-4476-b8e4-da7da97bc143.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1539e87-9a1b-43db-a2db-c4f2a53602c0.png)
 
 Dual purpose hops are put into the boil halfway through to near the end of the boil. I generally like my beers to have more dual purpose and aroma hops than bittering hops because I like to have the subtleties of the hops come out more.
