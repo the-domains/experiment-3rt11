@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: The Hip-Hops
-datePublished: '2016-08-10T17:25:20.126Z'
-dateModified: '2016-08-10T17:24:41.707Z'
+datePublished: '2016-08-10T17:34:49.349Z'
+dateModified: '2016-08-10T17:34:35.332Z'
 title: ''
 author: []
 via: {}
@@ -37,5 +37,8 @@ Rex's mead home brew
 Mosquito Session IPA -Brainsbridge Brewery
 
 # Some of my favorite hops
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32811735-d558-4b31-a100-aa3b440c63d9.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a6fd265-d06d-44be-a1f3-27334f233cee.png)
+
+I have listed below some hops that I like to use for 1\. bittering hops, 2\. dual purpose, and 3\. aroma hops.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d68bf427-9476-4b66-9d3d-5a5b8cc4eaed.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6bf8e3f-afe8-4476-b8e4-da7da97bc143.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/447ddda3-3c82-4b4b-90c2-fe94f80908d6.png)
