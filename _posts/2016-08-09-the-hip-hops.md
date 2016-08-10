@@ -4,10 +4,15 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: Hip-HOPS
-datePublished: '2016-08-10T18:20:11.362Z'
-dateModified: '2016-08-10T18:20:09.259Z'
-title: ''
+description: >-
+  I think we can all agree hops have risen in popularity, at least across the
+  entire West Coast. I just drove up to Seattle from LA and stopped by a few
+  breweries along the way. Literally every brewery had at least 2-3 IPAs and I
+  was surprised to find double IPAs at each of the establishments from small
+  local breweries to inter-state mega breweries.
+datePublished: '2016-08-10T18:22:03.443Z'
+dateModified: '2016-08-10T18:21:34.057Z'
+title: Hip-HOPS
 author:
   - name: ''
     url: ''
@@ -24,8 +29,9 @@ url: the-hip-hops/index.html
 _type: WebPage
 
 ---
-Hip-**HOPS**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4034089-7ab6-49d0-a5bc-70bf225150c1.jpg)
+
+# Hip-**HOPS**
 
 I think we can all agree hops have risen in popularity, at least across the entire West Coast. I just drove up to Seattle from LA and stopped by a few breweries along the way. Literally every brewery had at least 2-3 IPAs and I was surprised to find double IPAs at each of the establishments from small local breweries to inter-state mega breweries.
 
@@ -42,7 +48,7 @@ Rex's mead home brew
 
 Mosquito Session IPA -Brainsbridge Brewery
 
-# Some of my favorite hops
+## Some of my favorite hops
 
 I have listed below some hops that I like to use for **1\. Bittering hops**,**2**. **Dual Purpose Hops**, and **3\. Aroma Hops**.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d68bf427-9476-4b66-9d3d-5a5b8cc4eaed.png)
