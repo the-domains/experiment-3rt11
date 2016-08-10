@@ -5,18 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: The Hip-Hops
-datePublished: '2016-08-10T17:13:53.131Z'
-dateModified: '2016-08-10T17:12:41.391Z'
+datePublished: '2016-08-10T17:25:20.126Z'
+dateModified: '2016-08-10T17:24:41.707Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-08-09-the-hip-hops.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: false
 url: the-hip-hops/index.html
 _type: WebPage
@@ -41,6 +37,5 @@ Rex's mead home brew
 Mosquito Session IPA -Brainsbridge Brewery
 
 # Some of my favorite hops
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d616c0ff-fdbe-4e7c-85ed-666f0d0ccf2b.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58169190-244c-45dd-a369-c2330efda8f1.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ceaf0e0-701a-4b29-8097-ca2ce7d0f7bb.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32811735-d558-4b31-a100-aa3b440c63d9.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a6fd265-d06d-44be-a1f3-27334f233cee.png)
