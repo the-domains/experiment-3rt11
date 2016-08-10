@@ -17,8 +17,8 @@ keywords:
 description: >-
   What is the future for VIX? Is complacency at an all-time high and we are just
   waiting for a peak so it can all crash down again?
-datePublished: '2016-08-10T22:01:36.589Z'
-dateModified: '2016-08-10T21:59:43.983Z'
+datePublished: '2016-08-10T22:07:28.527Z'
+dateModified: '2016-08-10T22:07:24.609Z'
 sourcePath: _posts/2016-04-16-dinnertable-a-20-seat-speakeasy-style-restaurant.md
 related: []
 author:
@@ -42,9 +42,9 @@ _type: MediaObject
 ![The Bulls and Bears](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c79f2891-dd04-44c6-9305-fe687b0c2f83.jpg)
 
 What is the future for VIX? Is complacency at an all-time high and we are just waiting for a peak so it can all crash down again?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97f8b667-2583-4fa3-ac9e-f0b602a0cdd7.png)
 
 I have been following the TVIX (Velocity Shares 2x VXX) for some time now. My initial success with the TVIX was when I bought shares prior to the Brexit vote. It was a clear gamble but I simply rationalized that a major vote with major implications if passed with a 50/50 chance should have a clear impact on market volatility.
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ea3218d74b9ff5bf322ae3fa73c652df/croprotate.png?cropheight=286&cropwidth=457&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F97f8b667-2583-4fa3-ac9e-f0b602a0cdd7.png&x=5&y=7)
 
 **[https://www.youtube.com/watch?v=ve1OGJZS74Q&t=938s][0]**
 
