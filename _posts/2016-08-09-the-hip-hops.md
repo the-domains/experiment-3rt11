@@ -9,8 +9,8 @@ description: >-
   nonetheless. Hops are supported by bines vs. vines for grapes. This refers to
   how the plant supports its weight by forming a helix around a support (vs
   tendrils/twining around a host).
-datePublished: '2016-08-10T22:06:35.652Z'
-dateModified: '2016-08-10T22:06:31.310Z'
+datePublished: '2016-08-10T22:22:38.926Z'
+dateModified: '2016-08-10T22:15:57.241Z'
 title: Some of my favorite hops
 author:
   - name: ''
@@ -18,7 +18,11 @@ author:
 via: {}
 sourcePath: _posts/2016-08-09-the-hip-hops.md
 authors: []
-publisher: {}
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
 starred: false
 url: the-hip-hops/index.html
 _type: WebPage
