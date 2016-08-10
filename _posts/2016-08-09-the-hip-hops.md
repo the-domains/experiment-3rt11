@@ -10,8 +10,8 @@ description: >-
   breweries along the way. Literally every brewery had at least 2-3 IPAs and I
   was surprised to find double IPAs at each of the establishments from small
   local breweries to inter-state mega breweries.
-datePublished: '2016-08-10T18:23:57.619Z'
-dateModified: '2016-08-10T18:22:35.328Z'
+datePublished: '2016-08-10T18:24:16.871Z'
+dateModified: '2016-08-10T18:24:13.635Z'
 title: Hip-HOPS
 author:
   - name: ''
