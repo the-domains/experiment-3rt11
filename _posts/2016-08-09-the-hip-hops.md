@@ -5,14 +5,18 @@ inNav: true
 inLanguage: null
 keywords: []
 description: The Hip-Hops
-datePublished: '2016-08-10T00:48:44.236Z'
-dateModified: '2016-08-10T00:47:53.791Z'
+datePublished: '2016-08-10T00:51:09.206Z'
+dateModified: '2016-08-10T00:49:14.677Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-08-09-the-hip-hops.md
 authors: []
-publisher: {}
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: the-hip-hops/index.html
 _type: WebPage
