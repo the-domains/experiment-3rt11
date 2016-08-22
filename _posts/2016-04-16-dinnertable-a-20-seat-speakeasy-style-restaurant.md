@@ -1,8 +1,9 @@
 ---
+datePublished: '2016-08-21T23:45:01.986Z'
+sourcePath: _posts/2016-04-16-dinnertable-a-20-seat-speakeasy-style-restaurant.md
 inFeed: false
+authors: []
 hasPage: true
-inNav: true
-inLanguage: en
 keywords:
   - taco
   - dinnertable
@@ -14,25 +15,20 @@ keywords:
   - salad
   - potato
   - burger
-description: >-
-  What is the future for VIX? Is complacency at an all-time high and we are just
-  waiting for a peak so it can all crash down again?
-datePublished: '2016-08-10T22:07:28.527Z'
-dateModified: '2016-08-10T22:07:24.609Z'
-sourcePath: _posts/2016-04-16-dinnertable-a-20-seat-speakeasy-style-restaurant.md
 related: []
 author:
   - name: ''
     url: ''
+via: {}
+dateModified: '2016-08-21T23:45:01.374Z'
 title: Bulls and Bears
 app_links: []
-via: {}
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+description: >-
+  What is the future for VIX? Is complacency at an all-time high and we are just
+  waiting for a peak so it can all crash down again?
+inLanguage: en
+inNav: true
 starred: false
 url: bulls-and-bears/index.html
 _context: 'http://schema.org'
@@ -44,13 +40,13 @@ _type: MediaObject
 What is the future for VIX? Is complacency at an all-time high and we are just waiting for a peak so it can all crash down again?
 
 I have been following the TVIX (Velocity Shares 2x VXX) for some time now. My initial success with the TVIX was when I bought shares prior to the Brexit vote. It was a clear gamble but I simply rationalized that a major vote with major implications if passed with a 50/50 chance should have a clear impact on market volatility.
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ea3218d74b9ff5bf322ae3fa73c652df/croprotate.png?cropheight=286&cropwidth=457&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F97f8b667-2583-4fa3-ac9e-f0b602a0cdd7.png&x=5&y=7)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f5228b7f594d5d989b24b85d6d4238e547d249c.png)
 
 **[https://www.youtube.com/watch?v=ve1OGJZS74Q&t=938s][0]**
 
 I have lost money in the last week on the TVIX but I will be holding it expecting the bears to come out pulling apart this much hated S&P bull run. Furthermore, it would be safe to assume that come election day November 8th there will be a big spike in the TVIX. Either a Trump or Clinton victory with have dramatic changes to the economy but markets suggest a Clinton victory (correlation between S&P rise and incumbent party winning election).
 
-An article from WSJ from 8-10-2016 points out whistleblowers can get paid 10-30% of payouts from the SEC for snitching such as 2 former State Street employees who combined will get a payout of $90 million, about $45 million each. I wonder what sort of payouts will happen after the next financial crisis, risky behavior only gets punished when it starts to lose a lot of money such as a financial scare. 
+An article from WSJ from 8-10-2016 points out whistleblowers can get paid 10-30% of payouts from the SEC for snitching such as 2 former State Street employees who combined will get a payout of $90 million, about $45 million each. I wonder what sort of payouts will happen after the next financial crisis, risky behavior only gets punished when it starts to lose a lot of money such as a financial scare.
 
 http://www.wsj.com/articles/tipsters-are-poised-for-big-payouts-1470783626
 
