@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T23:45:01.986Z'
+datePublished: '2016-08-21T23:45:34.759Z'
 sourcePath: _posts/2016-04-16-dinnertable-a-20-seat-speakeasy-style-restaurant.md
 inFeed: false
 authors: []
@@ -20,7 +20,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-21T23:45:01.374Z'
+dateModified: '2016-08-21T23:45:34.277Z'
 title: Bulls and Bears
 app_links: []
 publisher: {}
