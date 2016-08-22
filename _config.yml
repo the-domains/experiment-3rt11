@@ -1,49 +1,42 @@
-typography_spectrum: 0.38809
-color:
-  brandColors:
-    - '#e9b649'
-    - '#cf9331'
-    - '#4c2013'
-    - '#dd6028'
-    - '#9a6c39'
-  brandStrength: 0
-  lightness: 0.6875
-  saturation: 0.5625
-  rhythmicContrast: 0.5
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.16065
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: Trials and Tribulations
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: Bulls and Bears
-    id: 9bb52881-92f0-42f4-9db9-2e2b387cc1d5
-    type: content
-  - name: Some of my favorite hops
-    id: e7cf83b2-4b6b-4e25-ae7a-78c6c9507fd1
-    type: content
-favicon: null
+title: Trials and Tribulations
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Trials and Tribulations
-description: iggly wiggly BOY!
-purpose: []
+    permalink:
+      path: '/:title/'
+description: Swag
+color:
+  saturation: 0.5625
+  brandStrength: 1
+  lightness: 0.6875
+  brandColors:
+    - '#e9b649'
+    - '#cf9331'
+    - '#4c2013'
+    - '#dd6028'
+    - '#9a6c39'
+  rhythmicContrast: 0.5
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
+name: Trials and Tribulations
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.38809
+layout_spectrum: 0.2598566
