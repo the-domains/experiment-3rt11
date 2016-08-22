@@ -28,6 +28,9 @@ navigation:
   - name: Bulls and Bears
     id: 9bb52881-92f0-42f4-9db9-2e2b387cc1d5
     type: content
+  - name: Some of my favorite hops
+    id: e7cf83b2-4b6b-4e25-ae7a-78c6c9507fd1
+    type: content
 favicon: null
 collections:
   - index:
